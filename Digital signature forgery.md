@@ -1,4 +1,4 @@
-####Digital signature forgery
+#Digital signature forgery
 
 数字签名伪造性：攻击者在没有密钥k的情况下，伪造一个未经认证的（M,$\sigma$\Mac）对。$\sigma$对于$m$有效，$m$没有被过去有效的签名者签名过。
 
